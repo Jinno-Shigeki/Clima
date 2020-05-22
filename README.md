@@ -1,7 +1,7 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  Clima
+
+通信教材の課題で作りました。API通信をしてデータを読み込み、解析し、アプリで使用することが今回の主要な課題でした。
 
 ## Our Goal
 
